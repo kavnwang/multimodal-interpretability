@@ -1,0 +1,10 @@
+nnsight
+vllm==0.6.4.post1
+triton
+torch
+einops
+bitsandbytes
+ipykernel
+matplotlib
+seaborn
+transformers==4.47.1

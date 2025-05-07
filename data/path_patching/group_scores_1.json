@@ -1,0 +1,20 @@
+{
+  "group_scores": {
+    "A": -0.014084503714101956,
+    "B": -0.014084503714101956,
+    "C": 0.26760557056793716,
+    "D": -0.23943656313973324
+  },
+  "groups": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+  },
+  "group_descriptions": {
+    "A": "Output heads directly influencing final prediction at the last token position",
+    "B": "Intermediary heads receiving information from Group A, also at last token position",
+    "C": "Heads connecting to Group B, typically at second-to-last token position",
+    "D": "Initial heads in circuit feeding into Group C, typically at third-to-last token position"
+  }
+}

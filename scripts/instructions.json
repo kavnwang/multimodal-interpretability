@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "clean_image_path": "./scripts/dataset-2/clean-1.jpg",
+    "corrupted_image_path": "./scripts/dataset-2/corrupted-1.jpg",
+    "prompt": "<image>\nAnswer in one token. Is the heart to the left or right of the sun? [/INST]",
+    "clean_word": "left",
+    "corrupted_word": "right",
+    "answer": "left",
+    "noisy_prompt": "<image>\nAnswer in one token. Is the heart to the left or right of the sun? [/INST]"
+  }
+]

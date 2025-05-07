@@ -1,0 +1,100 @@
+[
+  {
+    "index": 1,
+    "clean_image_path": "./dataset-2/clean-1.jpg",
+    "corrupted_image_path": "./dataset-2/corrupted-1.jpg",
+    "prompt": "<image>\nAnswer in one token. Is the heart to the left or right of the sun? [/INST]",
+    "clean_word": "left",
+    "corrupted_word": "right",
+    "answer": "left",
+    "noisy_prompt": "<image>\nAnswer in one token. Is the heart to the left or right of the sun? [/INST]"
+  },
+  {
+    "index": 2,
+    "clean_image_path": "./dataset/clean-1.jpg",
+    "corrupted_image_path": "./dataset/corrupted-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "sun",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 3,
+    "clean_image_path": "./dataset/corrupted-1.jpg",
+    "corrupted_image_path": "./dataset/clean-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left object is the [/INST]",
+    "clean_word": "sun",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 4,
+    "clean_image_path": "./dataset/corrupted-1.jpg",
+    "corrupted_image_path": "./dataset/clean-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "heart",
+    "corrupted_word": "sun"
+  },
+  {
+    "index": 5,
+    "clean_image_path": "./dataset/clean-2.jpg",
+    "corrupted_image_path": "./dataset/corrupted-2.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left arrow is pointing [/INST]",
+    "clean_word": "down",
+    "corrupted_word": "up"
+  },
+  {
+    "index": 6,
+    "clean_image_path": "./dataset/clean-2.jpg",
+    "corrupted_image_path": "./dataset/corrupted-2.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right arrow is pointing [/INST]",
+    "clean_word": "up",
+    "corrupted_word": "down"
+  },
+  {
+    "index": 7,
+    "clean_image_path": "./dataset/corrupted-2.jpg",
+    "corrupted_image_path": "./dataset/clean-2.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left arrow is pointing [/INST]",
+    "clean_word": "up",
+    "corrupted_word": "down"
+  },
+  {
+    "index": 8,
+    "clean_image_path": "./dataset/corrupted-2.jpg",
+    "corrupted_image_path": "./dataset/clean-2.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right arrow is pointing [/INST]",
+    "clean_word": "down",
+    "corrupted_word": "up"
+  },
+  {
+    "index": 9,
+    "clean_image_path": "./dataset/clean-3.jpg",
+    "corrupted_image_path": "./dataset/corrupted-3.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left arrow is pointing [/INST]",
+    "clean_word": "right",
+    "corrupted_word": "left"
+  },
+  {
+    "index": 10,
+    "clean_image_path": "./dataset/clean-3.jpg",
+    "corrupted_image_path": "./dataset/corrupted-3.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right arrow is pointing [/INST]",
+    "clean_word": "left",
+    "corrupted_word": "right"
+  },
+  {
+    "index": 11,
+    "clean_image_path": "./dataset/corrupted-3.jpg",
+    "corrupted_image_path": "./dataset/clean-3.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left arrow is pointing [/INST]",
+    "clean_word": "left",
+    "corrupted_word": "right"
+  },
+  {
+    "index": 12,
+    "clean_image_path": "./dataset/corrupted-3.jpg",
+    "corrupted_image_path": "./dataset/clean-3.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right arrow is pointing [/INST]",
+    "clean_word": "right",
+    "corrupted_word": "left"
+  }
+]

@@ -1,0 +1,4874 @@
+[
+  {
+    "token_idx": 0,
+    "token_string": "<s>",
+    "is_image_token": false,
+    "clean_token_logit": -0.256591796875,
+    "corrupted_token_logit": -0.256591796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 1,
+    "token_string": "US",
+    "is_image_token": false,
+    "clean_token_logit": -2.044921875,
+    "corrupted_token_logit": -2.044921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 2,
+    "token_string": "ER",
+    "is_image_token": false,
+    "clean_token_logit": -1.748046875,
+    "corrupted_token_logit": -1.748046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 3,
+    "token_string": ":",
+    "is_image_token": false,
+    "clean_token_logit": 3.70703125,
+    "corrupted_token_logit": 3.70703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 4,
+    "token_string": "[",
+    "is_image_token": false,
+    "clean_token_logit": 0.6171875,
+    "corrupted_token_logit": 0.6171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 5,
+    "token_string": "IMAGE",
+    "is_image_token": true,
+    "clean_token_logit": 1.16796875,
+    "corrupted_token_logit": 1.44921875,
+    "patch_diff": 0.0029296875
+  },
+  {
+    "token_idx": 6,
+    "token_string": "]",
+    "is_image_token": true,
+    "clean_token_logit": 2.609375,
+    "corrupted_token_logit": 2.99609375,
+    "patch_diff": 0.001953125
+  },
+  {
+    "token_idx": 7,
+    "token_string": "\n",
+    "is_image_token": true,
+    "clean_token_logit": 4.20703125,
+    "corrupted_token_logit": 4.2890625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 8,
+    "token_string": "Answer",
+    "is_image_token": true,
+    "clean_token_logit": 4.37890625,
+    "corrupted_token_logit": 4.51953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 9,
+    "token_string": "in",
+    "is_image_token": true,
+    "clean_token_logit": 2.59375,
+    "corrupted_token_logit": 4.64453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 10,
+    "token_string": "one",
+    "is_image_token": true,
+    "clean_token_logit": 0.6123046875,
+    "corrupted_token_logit": 1.1630859375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 11,
+    "token_string": "token",
+    "is_image_token": true,
+    "clean_token_logit": 0.6875,
+    "corrupted_token_logit": 1.1748046875,
+    "patch_diff": 0.001953125
+  },
+  {
+    "token_idx": 12,
+    "token_string": ".",
+    "is_image_token": true,
+    "clean_token_logit": 5.78125,
+    "corrupted_token_logit": 5.625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 13,
+    "token_string": "Is",
+    "is_image_token": true,
+    "clean_token_logit": 5.2890625,
+    "corrupted_token_logit": 5.84765625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 14,
+    "token_string": "the",
+    "is_image_token": true,
+    "clean_token_logit": 5.8125,
+    "corrupted_token_logit": 5.77734375,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 15,
+    "token_string": "heart",
+    "is_image_token": true,
+    "clean_token_logit": 5.66796875,
+    "corrupted_token_logit": 5.58203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 16,
+    "token_string": "to",
+    "is_image_token": true,
+    "clean_token_logit": 5.7265625,
+    "corrupted_token_logit": 5.828125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 17,
+    "token_string": "the",
+    "is_image_token": true,
+    "clean_token_logit": 5.84765625,
+    "corrupted_token_logit": 5.78515625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 18,
+    "token_string": "left",
+    "is_image_token": true,
+    "clean_token_logit": 5.78515625,
+    "corrupted_token_logit": 5.6875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 19,
+    "token_string": "or",
+    "is_image_token": true,
+    "clean_token_logit": 2.2890625,
+    "corrupted_token_logit": 5.4921875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 20,
+    "token_string": "right",
+    "is_image_token": true,
+    "clean_token_logit": 6.03125,
+    "corrupted_token_logit": 5.64453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 21,
+    "token_string": "of",
+    "is_image_token": true,
+    "clean_token_logit": 4.21875,
+    "corrupted_token_logit": 4.90234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 22,
+    "token_string": "the",
+    "is_image_token": true,
+    "clean_token_logit": 5.96484375,
+    "corrupted_token_logit": 7.12109375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 23,
+    "token_string": "sun",
+    "is_image_token": true,
+    "clean_token_logit": 7.2421875,
+    "corrupted_token_logit": 6.04296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 24,
+    "token_string": "?",
+    "is_image_token": true,
+    "clean_token_logit": 6.77734375,
+    "corrupted_token_logit": 6.55859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 25,
+    "token_string": "[",
+    "is_image_token": true,
+    "clean_token_logit": 6.8203125,
+    "corrupted_token_logit": 6.59765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 26,
+    "token_string": "/",
+    "is_image_token": true,
+    "clean_token_logit": 6.703125,
+    "corrupted_token_logit": 6.3984375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 27,
+    "token_string": "INST",
+    "is_image_token": true,
+    "clean_token_logit": 6.89453125,
+    "corrupted_token_logit": 6.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 28,
+    "token_string": "]",
+    "is_image_token": true,
+    "clean_token_logit": 5.1875,
+    "corrupted_token_logit": 5.38671875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 29,
+    "token_string": "\n",
+    "is_image_token": true,
+    "clean_token_logit": 7.171875,
+    "corrupted_token_logit": 6.94921875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 30,
+    "token_string": "ASS",
+    "is_image_token": true,
+    "clean_token_logit": 7.1953125,
+    "corrupted_token_logit": 6.50390625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 31,
+    "token_string": "IST",
+    "is_image_token": true,
+    "clean_token_logit": 6.515625,
+    "corrupted_token_logit": 6.1796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 32,
+    "token_string": "ANT",
+    "is_image_token": true,
+    "clean_token_logit": 6.28515625,
+    "corrupted_token_logit": 5.91796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 33,
+    "token_string": ":",
+    "is_image_token": true,
+    "clean_token_logit": 6.01953125,
+    "corrupted_token_logit": 5.78515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 34,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.9765625,
+    "corrupted_token_logit": 5.7265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 35,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.85546875,
+    "corrupted_token_logit": 5.5,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 36,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.89453125,
+    "corrupted_token_logit": 5.66015625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 37,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.69921875,
+    "corrupted_token_logit": 5.46875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 38,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.57421875,
+    "corrupted_token_logit": 4.58203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 39,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.1953125,
+    "corrupted_token_logit": 6.015625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 40,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.9375,
+    "corrupted_token_logit": 5.74609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 41,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.81640625,
+    "corrupted_token_logit": 5.6640625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 42,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.70703125,
+    "corrupted_token_logit": 5.5078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 43,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.6953125,
+    "corrupted_token_logit": 5.53125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 44,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.58984375,
+    "corrupted_token_logit": 5.4765625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 45,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.65625,
+    "corrupted_token_logit": 5.375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 46,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.56640625,
+    "corrupted_token_logit": 5.37109375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 47,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.57421875,
+    "corrupted_token_logit": 5.40234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 48,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.54296875,
+    "corrupted_token_logit": 5.36328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 49,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.52734375,
+    "corrupted_token_logit": 5.3125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 50,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.46875,
+    "corrupted_token_logit": 5.31640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 51,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.51171875,
+    "corrupted_token_logit": 5.41015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 52,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.73828125,
+    "corrupted_token_logit": 5.70703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 53,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.98046875,
+    "corrupted_token_logit": 6.75,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 54,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.47265625,
+    "corrupted_token_logit": 5.953125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 55,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.2109375,
+    "corrupted_token_logit": 4.66796875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 56,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4921875,
+    "corrupted_token_logit": 5.5546875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 57,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.37109375,
+    "corrupted_token_logit": 5.50390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 58,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.3125,
+    "corrupted_token_logit": 5.4609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 59,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.51953125,
+    "corrupted_token_logit": 5.44140625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 60,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.296875,
+    "corrupted_token_logit": 5.3046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 61,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.171875,
+    "corrupted_token_logit": 5.07421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 62,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.3828125,
+    "corrupted_token_logit": 4.3515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 63,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.9375,
+    "corrupted_token_logit": 5.90234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 64,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.7265625,
+    "corrupted_token_logit": 5.6875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 65,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.6328125,
+    "corrupted_token_logit": 5.578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 66,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.55859375,
+    "corrupted_token_logit": 5.51171875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 67,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.515625,
+    "corrupted_token_logit": 5.42578125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 68,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4375,
+    "corrupted_token_logit": 5.37109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 69,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.5234375,
+    "corrupted_token_logit": 5.14453125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 70,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.49609375,
+    "corrupted_token_logit": 5.32421875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 71,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.421875,
+    "corrupted_token_logit": 5.2265625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 72,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.3515625,
+    "corrupted_token_logit": 5.265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 73,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.41015625,
+    "corrupted_token_logit": 5.296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 74,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4140625,
+    "corrupted_token_logit": 5.2734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 75,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.33984375,
+    "corrupted_token_logit": 5.23046875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 76,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.36328125,
+    "corrupted_token_logit": 7.08984375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 77,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.05078125,
+    "corrupted_token_logit": 6.03125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 78,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.1328125,
+    "corrupted_token_logit": 6.0390625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 79,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.83984375,
+    "corrupted_token_logit": 5.66796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 80,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.68359375,
+    "corrupted_token_logit": 5.66015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 81,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.50390625,
+    "corrupted_token_logit": 5.58203125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 82,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.72265625,
+    "corrupted_token_logit": 5.703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 83,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.39453125,
+    "corrupted_token_logit": 5.30078125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 84,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.94921875,
+    "corrupted_token_logit": 5.98828125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 85,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.8671875,
+    "corrupted_token_logit": 6.87890625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 86,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.66015625,
+    "corrupted_token_logit": 6.72265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 87,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.46875,
+    "corrupted_token_logit": 6.33984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 88,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.1953125,
+    "corrupted_token_logit": 6.1328125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 89,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.078125,
+    "corrupted_token_logit": 6.0,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 90,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.94921875,
+    "corrupted_token_logit": 5.828125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 91,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8828125,
+    "corrupted_token_logit": 5.7421875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 92,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.765625,
+    "corrupted_token_logit": 5.6796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 93,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.66796875,
+    "corrupted_token_logit": 4.8828125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 94,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.03125,
+    "corrupted_token_logit": 5.98046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 95,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.734375,
+    "corrupted_token_logit": 5.609375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 96,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.43359375,
+    "corrupted_token_logit": 5.26953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 97,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.56640625,
+    "corrupted_token_logit": 5.4453125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 98,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.70703125,
+    "corrupted_token_logit": 5.5234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 99,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.66796875,
+    "corrupted_token_logit": 5.4375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 100,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.41796875,
+    "corrupted_token_logit": 5.97265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 101,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3984375,
+    "corrupted_token_logit": 8.046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 102,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.328125,
+    "corrupted_token_logit": 5.43359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 103,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.578125,
+    "corrupted_token_logit": 5.3203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 104,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.45703125,
+    "corrupted_token_logit": 5.30078125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 105,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.30859375,
+    "corrupted_token_logit": 5.171875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 106,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.3828125,
+    "corrupted_token_logit": 5.26171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 107,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.0859375,
+    "corrupted_token_logit": 4.734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 108,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.66015625,
+    "corrupted_token_logit": 3.912109375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 109,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.37890625,
+    "corrupted_token_logit": 5.21875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 110,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.33984375,
+    "corrupted_token_logit": 5.1640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 111,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.28125,
+    "corrupted_token_logit": 5.12109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 112,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.28125,
+    "corrupted_token_logit": 5.125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 113,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.328125,
+    "corrupted_token_logit": 5.16796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 114,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.3359375,
+    "corrupted_token_logit": 5.15234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 115,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.34375,
+    "corrupted_token_logit": 5.16015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 116,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.36328125,
+    "corrupted_token_logit": 5.14453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 117,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.3671875,
+    "corrupted_token_logit": 5.1328125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 118,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.046875,
+    "corrupted_token_logit": 7.16015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 119,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.88671875,
+    "corrupted_token_logit": 5.91015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 120,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.83203125,
+    "corrupted_token_logit": 5.8828125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 121,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.64453125,
+    "corrupted_token_logit": 5.640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 122,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.58984375,
+    "corrupted_token_logit": 5.578125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 123,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.51171875,
+    "corrupted_token_logit": 5.5390625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 124,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8046875,
+    "corrupted_token_logit": 8.4140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 125,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.80859375,
+    "corrupted_token_logit": 8.5078125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 126,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.83984375,
+    "corrupted_token_logit": 6.12109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 127,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.38671875,
+    "corrupted_token_logit": 5.84375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 128,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.06640625,
+    "corrupted_token_logit": 5.765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 129,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8828125,
+    "corrupted_token_logit": 5.70703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 130,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4921875,
+    "corrupted_token_logit": 5.53515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 131,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.03515625,
+    "corrupted_token_logit": 4.9140625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 132,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.71875,
+    "corrupted_token_logit": 5.375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 133,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.65625,
+    "corrupted_token_logit": 5.34765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 134,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.55859375,
+    "corrupted_token_logit": 5.2578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 135,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4296875,
+    "corrupted_token_logit": 5.1796875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 136,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.39453125,
+    "corrupted_token_logit": 5.140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 137,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.23046875,
+    "corrupted_token_logit": 3.716796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 138,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.0703125,
+    "corrupted_token_logit": 4.08984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 139,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8671875,
+    "corrupted_token_logit": 5.296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 140,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.6953125,
+    "corrupted_token_logit": 5.3046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 141,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.62890625,
+    "corrupted_token_logit": 5.30859375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 142,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0625,
+    "corrupted_token_logit": 8.21875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 143,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.0703125,
+    "corrupted_token_logit": 5.91796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 144,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.45703125,
+    "corrupted_token_logit": 6.05078125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 145,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.11328125,
+    "corrupted_token_logit": 5.78515625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 146,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.86328125,
+    "corrupted_token_logit": 8.3828125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 147,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.74609375,
+    "corrupted_token_logit": 6.06640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 148,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.890625,
+    "corrupted_token_logit": 8.5859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 149,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.625,
+    "corrupted_token_logit": 8.40625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 150,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.55859375,
+    "corrupted_token_logit": 6.1171875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 151,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.6015625,
+    "corrupted_token_logit": 6.09375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 152,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.57421875,
+    "corrupted_token_logit": 5.89453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 153,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.77734375,
+    "corrupted_token_logit": 4.9375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 154,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.607421875,
+    "corrupted_token_logit": 5.30078125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 155,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7734375,
+    "corrupted_token_logit": 2.55859375,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 156,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8671875,
+    "corrupted_token_logit": 5.43359375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 157,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.125,
+    "corrupted_token_logit": 4.15234375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 158,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.40625,
+    "corrupted_token_logit": 4.76171875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 159,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.28125,
+    "corrupted_token_logit": 6.01953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 160,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.12890625,
+    "corrupted_token_logit": 5.84765625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 161,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.12109375,
+    "corrupted_token_logit": 5.875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 162,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.9453125,
+    "corrupted_token_logit": 5.69921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 163,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.87890625,
+    "corrupted_token_logit": 5.66796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 164,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 1.8017578125,
+    "corrupted_token_logit": 5.6015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 165,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.77734375,
+    "corrupted_token_logit": 7.79296875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 166,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.5390625,
+    "corrupted_token_logit": 6.2421875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 167,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.19140625,
+    "corrupted_token_logit": 6.53515625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 168,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.29296875,
+    "corrupted_token_logit": 6.59765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 169,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.46484375,
+    "corrupted_token_logit": 6.41796875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 170,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.0234375,
+    "corrupted_token_logit": 5.53125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 171,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.796875,
+    "corrupted_token_logit": 4.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 172,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.6015625,
+    "corrupted_token_logit": 8.3984375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 173,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.861328125,
+    "corrupted_token_logit": 2.927734375,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 174,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.4921875,
+    "corrupted_token_logit": 4.1875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 175,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.8359375,
+    "corrupted_token_logit": 6.2890625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 176,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.2734375,
+    "corrupted_token_logit": 7.34375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 177,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.75390625,
+    "corrupted_token_logit": 2.994140625,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 178,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.875,
+    "corrupted_token_logit": 5.421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 179,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.890625,
+    "corrupted_token_logit": 4.9140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 180,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.0625,
+    "corrupted_token_logit": 6.78125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 181,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.69140625,
+    "corrupted_token_logit": 5.29296875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 182,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.65234375,
+    "corrupted_token_logit": 6.6328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 183,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.0625,
+    "corrupted_token_logit": 6.3125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 184,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.67578125,
+    "corrupted_token_logit": 6.1171875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 185,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.5703125,
+    "corrupted_token_logit": 6.06640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 186,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3671875,
+    "corrupted_token_logit": 5.9609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 187,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.75,
+    "corrupted_token_logit": 5.42578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 188,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.49609375,
+    "corrupted_token_logit": 6.6796875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 189,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.37109375,
+    "corrupted_token_logit": 5.8984375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 190,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2578125,
+    "corrupted_token_logit": 3.703125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 191,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.5078125,
+    "corrupted_token_logit": 6.09765625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 192,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.359375,
+    "corrupted_token_logit": 6.00390625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 193,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.865234375,
+    "corrupted_token_logit": 4.33203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 194,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.2421875,
+    "corrupted_token_logit": 6.046875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 195,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2421875,
+    "corrupted_token_logit": 5.30078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 196,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.2734375,
+    "corrupted_token_logit": 7.515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 197,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.0390625,
+    "corrupted_token_logit": 5.98046875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 198,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3828125,
+    "corrupted_token_logit": 5.73828125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 199,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.45703125,
+    "corrupted_token_logit": 6.44140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 200,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.08984375,
+    "corrupted_token_logit": 5.08984375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 201,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.734375,
+    "corrupted_token_logit": 5.59765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 202,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.98828125,
+    "corrupted_token_logit": 5.13671875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 203,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8515625,
+    "corrupted_token_logit": 4.64453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 204,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.43359375,
+    "corrupted_token_logit": 8.421875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 205,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.66015625,
+    "corrupted_token_logit": 7.75390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 206,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.95703125,
+    "corrupted_token_logit": 7.33984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 207,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.93359375,
+    "corrupted_token_logit": 6.953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 208,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.140625,
+    "corrupted_token_logit": 7.16015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 209,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.76171875,
+    "corrupted_token_logit": 6.8984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 210,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.58203125,
+    "corrupted_token_logit": 6.62890625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 211,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.46875,
+    "corrupted_token_logit": 8.875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 212,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.91015625,
+    "corrupted_token_logit": 8.078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 213,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.140625,
+    "corrupted_token_logit": 6.71875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 214,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.171875,
+    "corrupted_token_logit": 9.0546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 215,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.234375,
+    "corrupted_token_logit": 8.5078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 216,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.4375,
+    "corrupted_token_logit": 8.28125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 217,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7421875,
+    "corrupted_token_logit": 7.98046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 218,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.12890625,
+    "corrupted_token_logit": 7.38671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 219,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.27734375,
+    "corrupted_token_logit": 5.453125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 220,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.51953125,
+    "corrupted_token_logit": 5.62109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 221,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.28515625,
+    "corrupted_token_logit": 6.84765625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 222,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.08984375,
+    "corrupted_token_logit": 6.6015625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 223,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.16796875,
+    "corrupted_token_logit": 6.59765625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 224,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.0078125,
+    "corrupted_token_logit": 5.65234375,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 225,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7734375,
+    "corrupted_token_logit": 5.94921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 226,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.8203125,
+    "corrupted_token_logit": 6.30078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 227,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.77734375,
+    "corrupted_token_logit": 5.00390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 228,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.80859375,
+    "corrupted_token_logit": 5.2421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 229,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.01171875,
+    "corrupted_token_logit": 8.1953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 230,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.421875,
+    "corrupted_token_logit": 2.068359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 231,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.9921875,
+    "corrupted_token_logit": 7.93359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 232,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.59765625,
+    "corrupted_token_logit": 7.35546875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 233,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.296875,
+    "corrupted_token_logit": 7.140625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 234,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.078125,
+    "corrupted_token_logit": 7.05859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 235,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.7421875,
+    "corrupted_token_logit": 7.62109375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 236,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.77734375,
+    "corrupted_token_logit": 5.74609375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 237,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.12109375,
+    "corrupted_token_logit": 7.25390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 238,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.83203125,
+    "corrupted_token_logit": 6.35546875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 239,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.80859375,
+    "corrupted_token_logit": 7.23046875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 240,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.6953125,
+    "corrupted_token_logit": 6.9609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 241,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.12890625,
+    "corrupted_token_logit": 6.79296875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 242,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.234375,
+    "corrupted_token_logit": 6.5390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 243,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.96484375,
+    "corrupted_token_logit": 6.15234375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 244,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7890625,
+    "corrupted_token_logit": 5.515625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 245,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.404296875,
+    "corrupted_token_logit": 6.38671875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 246,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.97265625,
+    "corrupted_token_logit": 6.60546875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 247,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.41796875,
+    "corrupted_token_logit": 6.703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 248,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.4765625,
+    "corrupted_token_logit": 5.95703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 249,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.8515625,
+    "corrupted_token_logit": 5.6171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 250,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.18359375,
+    "corrupted_token_logit": 6.41015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 251,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.509765625,
+    "corrupted_token_logit": 4.87890625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 252,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.74609375,
+    "corrupted_token_logit": 5.09375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 253,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.65625,
+    "corrupted_token_logit": 3.390625,
+    "patch_diff": 0.001953125
+  },
+  {
+    "token_idx": 254,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.15625,
+    "corrupted_token_logit": 7.73046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 255,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3203125,
+    "corrupted_token_logit": 7.296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 256,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.734375,
+    "corrupted_token_logit": 7.0625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 257,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.67578125,
+    "corrupted_token_logit": 6.06640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 258,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.87890625,
+    "corrupted_token_logit": 7.7421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 259,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.34375,
+    "corrupted_token_logit": 8.203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 260,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.25,
+    "corrupted_token_logit": 3.423828125,
+    "patch_diff": -0.005859375
+  },
+  {
+    "token_idx": 261,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.28125,
+    "corrupted_token_logit": 3.54296875,
+    "patch_diff": -0.005859375
+  },
+  {
+    "token_idx": 262,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.484375,
+    "corrupted_token_logit": 5.734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 263,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.828125,
+    "corrupted_token_logit": 7.1953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 264,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.88671875,
+    "corrupted_token_logit": 7.6875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 265,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.63671875,
+    "corrupted_token_logit": 7.33984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 266,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.3828125,
+    "corrupted_token_logit": 6.28515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 267,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.41015625,
+    "corrupted_token_logit": 5.10546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 268,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.30078125,
+    "corrupted_token_logit": 6.125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 269,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.224609375,
+    "corrupted_token_logit": 6.62890625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 270,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.859375,
+    "corrupted_token_logit": 6.59765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 271,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6640625,
+    "corrupted_token_logit": 7.0078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 272,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.2421875,
+    "corrupted_token_logit": 8.8125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 273,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.94921875,
+    "corrupted_token_logit": 6.70703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 274,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.68359375,
+    "corrupted_token_logit": 7.47265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 275,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.36328125,
+    "corrupted_token_logit": 5.9453125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 276,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.015625,
+    "corrupted_token_logit": 6.13671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 277,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.359375,
+    "corrupted_token_logit": 5.08203125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 278,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.7734375,
+    "corrupted_token_logit": 8.0546875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 279,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.96484375,
+    "corrupted_token_logit": 8.671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 280,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.60546875,
+    "corrupted_token_logit": 8.15625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 281,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.4453125,
+    "corrupted_token_logit": 7.90625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 282,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.375,
+    "corrupted_token_logit": 5.9609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 283,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.08203125,
+    "corrupted_token_logit": 7.84375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 284,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.1796875,
+    "corrupted_token_logit": 7.9453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 285,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7265625,
+    "corrupted_token_logit": 7.6328125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 286,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.40625,
+    "corrupted_token_logit": 6.90625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 287,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.796875,
+    "corrupted_token_logit": 8.0859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 288,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3671875,
+    "corrupted_token_logit": 8.3203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 289,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.11328125,
+    "corrupted_token_logit": 8.8671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 290,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.63671875,
+    "corrupted_token_logit": 8.3359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 291,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.5703125,
+    "corrupted_token_logit": 6.66015625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 292,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.234375,
+    "corrupted_token_logit": 7.80078125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 293,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.48046875,
+    "corrupted_token_logit": 6.5625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 294,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.986328125,
+    "corrupted_token_logit": 6.48046875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 295,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.94140625,
+    "corrupted_token_logit": 6.4609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 296,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.99609375,
+    "corrupted_token_logit": 6.125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 297,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.60546875,
+    "corrupted_token_logit": 5.921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 298,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.2734375,
+    "corrupted_token_logit": 6.81640625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 299,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.646484375,
+    "corrupted_token_logit": 5.953125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 300,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.62890625,
+    "corrupted_token_logit": 4.33203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 301,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.826171875,
+    "corrupted_token_logit": 4.6328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 302,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6015625,
+    "corrupted_token_logit": 7.51953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 303,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.52734375,
+    "corrupted_token_logit": 8.796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 304,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.74609375,
+    "corrupted_token_logit": 6.02734375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 305,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3203125,
+    "corrupted_token_logit": 5.10546875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 306,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0546875,
+    "corrupted_token_logit": 8.4609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 307,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3125,
+    "corrupted_token_logit": 8.328125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 308,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.36328125,
+    "corrupted_token_logit": 5.015625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 309,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.69140625,
+    "corrupted_token_logit": 4.78125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 310,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.42578125,
+    "corrupted_token_logit": 4.46875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 311,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.8359375,
+    "corrupted_token_logit": 7.12890625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 312,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.703125,
+    "corrupted_token_logit": 7.9296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 313,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.56640625,
+    "corrupted_token_logit": 7.8515625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 314,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.359375,
+    "corrupted_token_logit": 6.16015625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 315,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.5546875,
+    "corrupted_token_logit": 3.3984375,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 316,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.234375,
+    "corrupted_token_logit": 5.34765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 317,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.90625,
+    "corrupted_token_logit": 6.44921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 318,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.984375,
+    "corrupted_token_logit": 6.37890625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 319,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.015625,
+    "corrupted_token_logit": 6.58203125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 320,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.65625,
+    "corrupted_token_logit": 6.1953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 321,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.2890625,
+    "corrupted_token_logit": 6.07421875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 322,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.87109375,
+    "corrupted_token_logit": 6.3125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 323,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.552734375,
+    "corrupted_token_logit": 4.921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 324,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.986328125,
+    "corrupted_token_logit": 5.27734375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 325,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.9296875,
+    "corrupted_token_logit": 7.36328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 326,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8203125,
+    "corrupted_token_logit": 1.9765625,
+    "patch_diff": -0.0009765625
+  },
+  {
+    "token_idx": 327,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3125,
+    "corrupted_token_logit": 8.6484375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 328,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0234375,
+    "corrupted_token_logit": 8.2734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 329,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.8359375,
+    "corrupted_token_logit": 7.95703125,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 330,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.83203125,
+    "corrupted_token_logit": 8.1015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 331,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.9375,
+    "corrupted_token_logit": 5.359375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 332,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.125,
+    "corrupted_token_logit": 8.4296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 333,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.06640625,
+    "corrupted_token_logit": 8.8046875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 334,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.83984375,
+    "corrupted_token_logit": 6.58984375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 335,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.8828125,
+    "corrupted_token_logit": 5.20703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 336,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.65625,
+    "corrupted_token_logit": 6.16796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 337,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.28515625,
+    "corrupted_token_logit": 7.125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 338,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6171875,
+    "corrupted_token_logit": 6.171875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 339,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.68359375,
+    "corrupted_token_logit": 4.51953125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 340,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.97265625,
+    "corrupted_token_logit": 5.3515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 341,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.8203125,
+    "corrupted_token_logit": 7.1640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 342,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.7109375,
+    "corrupted_token_logit": 5.51171875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 343,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.046875,
+    "corrupted_token_logit": 6.2109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 344,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3984375,
+    "corrupted_token_logit": 6.29296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 345,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.48828125,
+    "corrupted_token_logit": 5.265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 346,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.57421875,
+    "corrupted_token_logit": 6.74609375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 347,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.94921875,
+    "corrupted_token_logit": 6.11328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 348,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.30859375,
+    "corrupted_token_logit": 6.0859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 349,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8515625,
+    "corrupted_token_logit": 7.58984375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 350,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3203125,
+    "corrupted_token_logit": 9.328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 351,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.953125,
+    "corrupted_token_logit": 8.7734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 352,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.10546875,
+    "corrupted_token_logit": 3.71484375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 353,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.82421875,
+    "corrupted_token_logit": 8.359375,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 354,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.7265625,
+    "corrupted_token_logit": 8.140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 355,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.73828125,
+    "corrupted_token_logit": 8.0234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 356,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.703125,
+    "corrupted_token_logit": 3.494140625,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 357,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.86328125,
+    "corrupted_token_logit": 8.359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 358,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.38671875,
+    "corrupted_token_logit": 5.94921875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 359,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.16015625,
+    "corrupted_token_logit": 7.31640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 360,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.6328125,
+    "corrupted_token_logit": 7.12109375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 361,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.765625,
+    "corrupted_token_logit": 6.5546875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 362,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.4375,
+    "corrupted_token_logit": 3.57421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 363,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.421875,
+    "corrupted_token_logit": 7.0234375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 364,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.25390625,
+    "corrupted_token_logit": 10.3359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 365,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.640625,
+    "corrupted_token_logit": 10.796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 366,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.59375,
+    "corrupted_token_logit": 6.50390625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 367,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.41015625,
+    "corrupted_token_logit": 6.86328125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 368,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.734375,
+    "corrupted_token_logit": 6.35546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 369,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.078125,
+    "corrupted_token_logit": 6.34375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 370,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.5625,
+    "corrupted_token_logit": 5.58203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 371,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.890625,
+    "corrupted_token_logit": 7.36328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 372,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8671875,
+    "corrupted_token_logit": 7.9296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 373,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.59375,
+    "corrupted_token_logit": 9.75,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 374,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.25,
+    "corrupted_token_logit": 5.8671875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 375,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2890625,
+    "corrupted_token_logit": 9.1171875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 376,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.6171875,
+    "corrupted_token_logit": 8.5703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 377,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2734375,
+    "corrupted_token_logit": 8.9296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 378,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1640625,
+    "corrupted_token_logit": 8.59375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 379,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.84765625,
+    "corrupted_token_logit": 8.2421875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 380,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.75,
+    "corrupted_token_logit": 8.1484375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 381,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.046875,
+    "corrupted_token_logit": 7.83984375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 382,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.98828125,
+    "corrupted_token_logit": 9.453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 383,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.921875,
+    "corrupted_token_logit": 8.6171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 384,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.01953125,
+    "corrupted_token_logit": 8.8671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 385,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3984375,
+    "corrupted_token_logit": 5.43359375,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 386,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.6953125,
+    "corrupted_token_logit": 8.484375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 387,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.12890625,
+    "corrupted_token_logit": 10.203125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 388,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.1640625,
+    "corrupted_token_logit": 9.3046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 389,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 1.859375,
+    "corrupted_token_logit": 3.865234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 390,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2109375,
+    "corrupted_token_logit": 8.1171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 391,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.568359375,
+    "corrupted_token_logit": 7.7578125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 392,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.9453125,
+    "corrupted_token_logit": 11.046875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 393,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.46484375,
+    "corrupted_token_logit": 6.94921875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 394,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8828125,
+    "corrupted_token_logit": 9.4140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 395,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.265625,
+    "corrupted_token_logit": 8.8984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 396,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.7265625,
+    "corrupted_token_logit": 3.890625,
+    "patch_diff": 0.001953125
+  },
+  {
+    "token_idx": 397,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.9921875,
+    "corrupted_token_logit": 8.0234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 398,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3515625,
+    "corrupted_token_logit": 8.6328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 399,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.140625,
+    "corrupted_token_logit": 8.3671875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 400,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.8984375,
+    "corrupted_token_logit": 8.0625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 401,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.71484375,
+    "corrupted_token_logit": 7.82421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 402,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6484375,
+    "corrupted_token_logit": 7.78125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 403,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6015625,
+    "corrupted_token_logit": 7.69921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 404,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.44921875,
+    "corrupted_token_logit": 7.59765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 405,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.37890625,
+    "corrupted_token_logit": 7.6328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 406,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.0703125,
+    "corrupted_token_logit": 9.6484375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 407,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.001953125,
+    "corrupted_token_logit": 9.046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 408,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.2265625,
+    "corrupted_token_logit": 10.328125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 409,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.953125,
+    "corrupted_token_logit": 9.7734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 410,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.4609375,
+    "corrupted_token_logit": 2.802734375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 411,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.095703125,
+    "corrupted_token_logit": 8.3828125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 412,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.953125,
+    "corrupted_token_logit": 6.20703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 413,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 11.484375,
+    "corrupted_token_logit": 11.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 414,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.78125,
+    "corrupted_token_logit": 9.2421875,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 415,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.65625,
+    "corrupted_token_logit": 8.703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 416,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.763671875,
+    "corrupted_token_logit": 8.0078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 417,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1484375,
+    "corrupted_token_logit": 7.8125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 418,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8671875,
+    "corrupted_token_logit": 11.3515625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 419,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.7265625,
+    "corrupted_token_logit": 9.65625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 420,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.671875,
+    "corrupted_token_logit": 8.640625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 421,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1484375,
+    "corrupted_token_logit": 8.2265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 422,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.109375,
+    "corrupted_token_logit": 8.21875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 423,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.9921875,
+    "corrupted_token_logit": 8.1171875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 424,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.5234375,
+    "corrupted_token_logit": 7.66796875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 425,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6015625,
+    "corrupted_token_logit": 7.76953125,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 426,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.38671875,
+    "corrupted_token_logit": 7.55078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 427,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.2578125,
+    "corrupted_token_logit": 7.4375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 428,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.25390625,
+    "corrupted_token_logit": 7.421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 429,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.37890625,
+    "corrupted_token_logit": 3.75390625,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 430,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.546875,
+    "corrupted_token_logit": 7.859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 431,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.390625,
+    "corrupted_token_logit": 7.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 432,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.51171875,
+    "corrupted_token_logit": 7.20703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 433,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.6796875,
+    "corrupted_token_logit": 8.7421875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 434,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.32421875,
+    "corrupted_token_logit": 7.1015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 435,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.328125,
+    "corrupted_token_logit": 7.25,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 436,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.703125,
+    "corrupted_token_logit": 7.74609375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 437,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 11.5,
+    "corrupted_token_logit": 9.578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 438,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.5703125,
+    "corrupted_token_logit": 7.91796875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 439,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.64453125,
+    "corrupted_token_logit": 5.3984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 440,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0703125,
+    "corrupted_token_logit": 7.29296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 441,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.7578125,
+    "corrupted_token_logit": 5.00390625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 442,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.1640625,
+    "corrupted_token_logit": 10.4453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 443,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.8203125,
+    "corrupted_token_logit": 9.21875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 444,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.31640625,
+    "corrupted_token_logit": 3.2265625,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 445,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.9765625,
+    "corrupted_token_logit": 7.390625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 446,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.2109375,
+    "corrupted_token_logit": 5.09765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 447,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.734375,
+    "corrupted_token_logit": 8.4140625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 448,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0234375,
+    "corrupted_token_logit": 7.89453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 449,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.80859375,
+    "corrupted_token_logit": 7.66796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 450,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.728515625,
+    "corrupted_token_logit": 2.107421875,
+    "patch_diff": 0.001953125
+  },
+  {
+    "token_idx": 451,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.9921875,
+    "corrupted_token_logit": 7.86328125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 452,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.46484375,
+    "corrupted_token_logit": 7.50390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 453,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6171875,
+    "corrupted_token_logit": 7.859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 454,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.05859375,
+    "corrupted_token_logit": 7.7578125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 455,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.47265625,
+    "corrupted_token_logit": 7.37890625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 456,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.3828125,
+    "corrupted_token_logit": 7.234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 457,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.27734375,
+    "corrupted_token_logit": 7.0546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 458,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.13671875,
+    "corrupted_token_logit": 7.0703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 459,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.38671875,
+    "corrupted_token_logit": 7.4453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 460,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.3984375,
+    "corrupted_token_logit": 9.96875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 461,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.6015625,
+    "corrupted_token_logit": 11.6484375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 462,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.84375,
+    "corrupted_token_logit": 8.7578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 463,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.296875,
+    "corrupted_token_logit": 8.2578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 464,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.4296875,
+    "corrupted_token_logit": 8.78125,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 465,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.5703125,
+    "corrupted_token_logit": 9.390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 466,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.8046875,
+    "corrupted_token_logit": 10.703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 467,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.740234375,
+    "corrupted_token_logit": 4.70703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 468,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1171875,
+    "corrupted_token_logit": 8.1015625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 469,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.7578125,
+    "corrupted_token_logit": 8.59375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 470,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.33984375,
+    "corrupted_token_logit": 4.32421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 471,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.390625,
+    "corrupted_token_logit": 8.375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 472,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1796875,
+    "corrupted_token_logit": 8.1796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 473,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.74609375,
+    "corrupted_token_logit": 7.765625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 474,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.74609375,
+    "corrupted_token_logit": 7.69921875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 475,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.5546875,
+    "corrupted_token_logit": 4.60546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 476,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.625,
+    "corrupted_token_logit": 7.5625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 477,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.85546875,
+    "corrupted_token_logit": 7.9375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 478,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.1015625,
+    "corrupted_token_logit": 9.84375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 479,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1171875,
+    "corrupted_token_logit": 8.1015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 480,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.97265625,
+    "corrupted_token_logit": 7.6875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 481,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.921875,
+    "corrupted_token_logit": 7.890625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 482,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.73828125,
+    "corrupted_token_logit": 7.7578125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 483,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.234375,
+    "corrupted_token_logit": 9.515625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 484,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.4375,
+    "corrupted_token_logit": 9.421875,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 485,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.75,
+    "corrupted_token_logit": 11.09375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 486,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 5.37109375,
+    "corrupted_token_logit": 6.1484375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 487,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.3203125,
+    "corrupted_token_logit": 8.1015625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 488,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.828125,
+    "corrupted_token_logit": 7.74609375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 489,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.3046875,
+    "corrupted_token_logit": 3.349609375,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 490,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.296875,
+    "corrupted_token_logit": 7.91796875,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 491,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.51171875,
+    "corrupted_token_logit": 5.53515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 492,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.375,
+    "corrupted_token_logit": 7.1875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 493,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0078125,
+    "corrupted_token_logit": 7.51953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 494,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.94140625,
+    "corrupted_token_logit": 7.203125,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 495,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.625,
+    "corrupted_token_logit": 7.06640625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 496,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.49609375,
+    "corrupted_token_logit": 7.19140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 497,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.5625,
+    "corrupted_token_logit": 7.296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 498,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.22265625,
+    "corrupted_token_logit": 6.9921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 499,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.14453125,
+    "corrupted_token_logit": 6.875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 500,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.0859375,
+    "corrupted_token_logit": 6.953125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 501,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.3671875,
+    "corrupted_token_logit": 9.65625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 502,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.265625,
+    "corrupted_token_logit": 9.6796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 503,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.578125,
+    "corrupted_token_logit": 8.71875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 504,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.9140625,
+    "corrupted_token_logit": 7.9765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 505,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.66796875,
+    "corrupted_token_logit": 7.64453125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 506,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6796875,
+    "corrupted_token_logit": 7.75,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 507,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.67578125,
+    "corrupted_token_logit": 7.83984375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 508,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.130859375,
+    "corrupted_token_logit": 3.828125,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 509,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.1484375,
+    "corrupted_token_logit": 11.4453125,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 510,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.4921875,
+    "corrupted_token_logit": 3.103515625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 511,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 2.904296875,
+    "corrupted_token_logit": 0.80859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 512,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.65625,
+    "corrupted_token_logit": 4.18359375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 513,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.20703125,
+    "corrupted_token_logit": 3.626953125,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 514,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.2890625,
+    "corrupted_token_logit": 8.7265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 515,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.73046875,
+    "corrupted_token_logit": 8.0546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 516,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8984375,
+    "corrupted_token_logit": 8.2734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 517,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.3046875,
+    "corrupted_token_logit": 9.421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 518,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.265625,
+    "corrupted_token_logit": 8.671875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 519,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 4.7578125,
+    "corrupted_token_logit": 3.59765625,
+    "patch_diff": 0.01171875
+  },
+  {
+    "token_idx": 520,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.4296875,
+    "corrupted_token_logit": 8.140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 521,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.359375,
+    "corrupted_token_logit": 8.0703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 522,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1484375,
+    "corrupted_token_logit": 7.85546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 523,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.0546875,
+    "corrupted_token_logit": 7.80859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 524,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.734375,
+    "corrupted_token_logit": 7.609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 525,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.6171875,
+    "corrupted_token_logit": 8.1640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 526,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.27734375,
+    "corrupted_token_logit": 7.859375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 527,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.56640625,
+    "corrupted_token_logit": 7.7109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 528,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.375,
+    "corrupted_token_logit": 7.47265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 529,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.625,
+    "corrupted_token_logit": 7.76171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 530,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.4375,
+    "corrupted_token_logit": 7.515625,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 531,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.1640625,
+    "corrupted_token_logit": 7.3125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 532,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.52734375,
+    "corrupted_token_logit": 7.84375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 533,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.1953125,
+    "corrupted_token_logit": 9.546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 534,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.15625,
+    "corrupted_token_logit": 8.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 535,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.1640625,
+    "corrupted_token_logit": 7.96875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 536,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.5,
+    "corrupted_token_logit": 8.40625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 537,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.15625,
+    "corrupted_token_logit": 7.91796875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 538,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 6.89453125,
+    "corrupted_token_logit": 7.5234375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 539,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 3.482421875,
+    "corrupted_token_logit": 4.734375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 540,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.2265625,
+    "corrupted_token_logit": 7.515625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 541,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.85546875,
+    "corrupted_token_logit": 7.6328125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 542,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.72265625,
+    "corrupted_token_logit": 7.48046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 543,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.625,
+    "corrupted_token_logit": 7.74609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 544,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.65625,
+    "corrupted_token_logit": 7.375,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 545,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.32421875,
+    "corrupted_token_logit": 7.171875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 546,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.296875,
+    "corrupted_token_logit": 7.125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 547,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.19140625,
+    "corrupted_token_logit": 7.05078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 548,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.23828125,
+    "corrupted_token_logit": 7.20703125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 549,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.2421875,
+    "corrupted_token_logit": 7.2265625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 550,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.28125,
+    "corrupted_token_logit": 10.03125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 551,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.84375,
+    "corrupted_token_logit": 10.125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 552,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.203125,
+    "corrupted_token_logit": 8.2578125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 553,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.83203125,
+    "corrupted_token_logit": 7.9296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 554,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 7.9765625,
+    "corrupted_token_logit": 8.078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 555,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.265625,
+    "corrupted_token_logit": 9.1875,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 556,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.8828125,
+    "corrupted_token_logit": 10.2890625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 557,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.9140625,
+    "corrupted_token_logit": 9.984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 558,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.015625,
+    "corrupted_token_logit": 9.171875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 559,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.2578125,
+    "corrupted_token_logit": 10.2421875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 560,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.7578125,
+    "corrupted_token_logit": 8.75,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 561,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.0,
+    "corrupted_token_logit": 9.5625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 562,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.5625,
+    "corrupted_token_logit": 9.4296875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 563,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.9453125,
+    "corrupted_token_logit": 10.140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 564,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.7421875,
+    "corrupted_token_logit": 9.40625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 565,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.8828125,
+    "corrupted_token_logit": 8.9609375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 566,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.6640625,
+    "corrupted_token_logit": 8.40625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 567,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.1015625,
+    "corrupted_token_logit": 8.8515625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 568,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.640625,
+    "corrupted_token_logit": 9.4921875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 569,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.03125,
+    "corrupted_token_logit": 9.0078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 570,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.5390625,
+    "corrupted_token_logit": 8.3984375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 571,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 8.9296875,
+    "corrupted_token_logit": 8.7109375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 572,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.8046875,
+    "corrupted_token_logit": 8.84375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 573,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.8125,
+    "corrupted_token_logit": 10.0625,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 574,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.375,
+    "corrupted_token_logit": 8.484375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 575,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.640625,
+    "corrupted_token_logit": 10.0234375,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 576,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 10.4609375,
+    "corrupted_token_logit": 11.21875,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 577,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.53125,
+    "corrupted_token_logit": 9.5390625,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 578,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.9140625,
+    "corrupted_token_logit": 9.9140625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 579,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.53125,
+    "corrupted_token_logit": 9.5390625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 580,
+    "token_string": "[UNK]",
+    "is_image_token": true,
+    "clean_token_logit": 9.703125,
+    "corrupted_token_logit": 10.0703125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 581,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 5.59375,
+    "corrupted_token_logit": 6.0859375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 582,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 1.1875,
+    "corrupted_token_logit": 1.240234375,
+    "patch_diff": -0.0048828125
+  },
+  {
+    "token_idx": 583,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 5.76171875,
+    "corrupted_token_logit": 5.7734375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 584,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 4.140625,
+    "corrupted_token_logit": 4.03125,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 585,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 5.30859375,
+    "corrupted_token_logit": 5.31640625,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 586,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 7.46875,
+    "corrupted_token_logit": 7.38671875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 587,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 4.90234375,
+    "corrupted_token_logit": 4.81640625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 588,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 4.4921875,
+    "corrupted_token_logit": 4.46484375,
+    "patch_diff": -0.00390625
+  },
+  {
+    "token_idx": 589,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 9.046875,
+    "corrupted_token_logit": 9.3046875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 590,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 7.57421875,
+    "corrupted_token_logit": 7.04296875,
+    "patch_diff": 0.00390625
+  },
+  {
+    "token_idx": 591,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 15.421875,
+    "corrupted_token_logit": 15.53125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 592,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 21.25,
+    "corrupted_token_logit": 20.328125,
+    "patch_diff": 0.015625
+  },
+  {
+    "token_idx": 593,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 12.7890625,
+    "corrupted_token_logit": 12.75,
+    "patch_diff": 0.0078125
+  },
+  {
+    "token_idx": 594,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 15.90625,
+    "corrupted_token_logit": 15.765625,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 595,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 9.2265625,
+    "corrupted_token_logit": 8.8125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 596,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 11.03125,
+    "corrupted_token_logit": 10.5703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 597,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 9.5625,
+    "corrupted_token_logit": 9.796875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 598,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 5.42578125,
+    "corrupted_token_logit": 6.20703125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 599,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 13.9765625,
+    "corrupted_token_logit": 11.546875,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 600,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 6.7890625,
+    "corrupted_token_logit": 4.9453125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 601,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 3.314453125,
+    "corrupted_token_logit": 3.298828125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 602,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": -0.51123046875,
+    "corrupted_token_logit": -0.59765625,
+    "patch_diff": -0.00146484375
+  },
+  {
+    "token_idx": 603,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 9.921875,
+    "corrupted_token_logit": 8.53125,
+    "patch_diff": -0.0078125
+  },
+  {
+    "token_idx": 604,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 7.3046875,
+    "corrupted_token_logit": 4.5078125,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 605,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 0.720703125,
+    "corrupted_token_logit": 0.484375,
+    "patch_diff": -0.001953125
+  },
+  {
+    "token_idx": 606,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 1.1884765625,
+    "corrupted_token_logit": -0.417724609375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 607,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 11.4609375,
+    "corrupted_token_logit": 10.375,
+    "patch_diff": 0.0
+  },
+  {
+    "token_idx": 608,
+    "token_string": "[UNK]",
+    "is_image_token": false,
+    "clean_token_logit": 16.625,
+    "corrupted_token_logit": 12.5234375,
+    "patch_diff": -0.0078125
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "index": 1,
+    "prompt": "USER: <image>\nAnswer in one token. Is the heart to the left or right of the sun?\nASSISTANT:",
+    "image": "./scripts/dataset-2/clean-1.jpg",
+    "noise_prompt": "USER: <image>\nAnswer in one token. Is the heart to the left or right of the sun?\nASSISTANT:",
+    "noise_image": "./scripts/dataset-2/corrupted-1.jpg",
+    "correct_token": "left",
+    "corrupted_token": "right"
+  }
+] 

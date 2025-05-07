@@ -1,0 +1,9 @@
+[
+  {
+    "prompt": "USER: <image>\nLook at this image and tell me what object is in it.\nASSISTANT: In this image, I can see a cat sitting on a windowsill.",
+    "noisy_prompt": "USER: <image>\nLook at this image and tell me what object is in it.\nASSISTANT: In this image, I can see a cat sitting on a windowsill.",
+    "answer": "cat",
+    "clean_image_path": "/root/multimodal-interpretability/scripts/dataset/clean-1.jpg",
+    "corrupted_image_path": "/root/multimodal-interpretability/scripts/dataset/corrupted-1.jpg"
+  }
+] 

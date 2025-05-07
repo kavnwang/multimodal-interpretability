@@ -1,0 +1,5 @@
+group,description,score,members
+A,"Output heads directly influencing final prediction at the last token position",-0.014084503714101956,
+B,"Intermediary heads receiving information from Group A, also at last token position",-0.014084503714101956,
+C,"Heads connecting to Group B, typically at second-to-last token position",0.26760557056793716,
+D,"Initial heads in circuit feeding into Group C, typically at third-to-last token position",-0.23943656313973324,

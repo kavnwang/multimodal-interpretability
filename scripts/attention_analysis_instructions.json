@@ -1,0 +1,68 @@
+
+[
+  {
+    "index": 1,
+    "clean_image_path": "./dataset/clean-1.jpg",
+    "corrupted_image_path": "./dataset/corrupted-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left object is the [/INST]",
+    "clean_word": "heart",
+    "corrupted_word": "sun"
+  },
+  {
+    "index": 2,
+    "clean_image_path": "./dataset/clean-1.jpg",
+    "corrupted_image_path": "./dataset/corrupted-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "sun",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 3,
+    "clean_image_path": "./dataset/corrupted-1.jpg",
+    "corrupted_image_path": "./dataset/clean-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left object is the [/INST]",
+    "clean_word": "sun",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 4,
+    "clean_image_path": "./dataset/corrupted-1.jpg",
+    "corrupted_image_path": "./dataset/clean-1.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "heart",
+    "corrupted_word": "sun"
+  },
+  {
+    "index": 5,
+    "clean_image_path": "./dataset/clean-4.jpg",
+    "corrupted_image_path": "./dataset/corrupted-4.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left object is the [/INST]",
+    "clean_word": "heart",
+    "corrupted_word": "star"
+  },
+  {
+    "index": 6,
+    "clean_image_path": "./dataset/clean-4.jpg",
+    "corrupted_image_path": "./dataset/corrupted-4.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "star",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 7,
+    "clean_image_path": "./dataset/corrupted-4.jpg",
+    "corrupted_image_path": "./dataset/clean-4.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The left object is the [/INST]",
+    "clean_word": "star",
+    "corrupted_word": "heart"
+  },
+  {
+    "index": 8,
+    "clean_image_path": "./dataset/corrupted-4.jpg",
+    "corrupted_image_path": "./dataset/clean-4.jpg",
+    "prompt": "[INST] <image>\nAnswer in one token. The right object is the [/INST]",
+    "clean_word": "heart",
+    "corrupted_word": "star"
+  }
+
+]
